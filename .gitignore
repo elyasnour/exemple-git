@@ -1,1 +1,4 @@
+# Ignore password file
 password.md
+*.txt
+!README.txt
